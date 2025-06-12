@@ -99,7 +99,7 @@ const SignUpRole = () => {
             }
             buttonText="Sign up as a jobseeker"
             onClick={() => navigate("/jobseeker-option")}
-          />
+          /> <br/>
 
           <RoleCard
             imageSrc="/assets/images/strongbox.svg"
